@@ -1,6 +1,6 @@
 ## Project Preview
 
-![App Screenshot](smart rail planner.bmp)
+![App Screenshot](project-preview.png)
 
 # Modern Railway Ticket Recommendation System
 
