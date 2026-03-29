@@ -1,3 +1,7 @@
+## Project Preview
+
+![App Screenshot](smart rail planner.bmp)
+
 # Modern Railway Ticket Recommendation System
 
 This project is a railway ticket availability and recommendation system built using Python and Flask. It focuses on routes between Vijayawada and Srikakulam Road, displaying train details, ticket availability, and fare information.
