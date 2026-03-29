@@ -8,6 +8,7 @@ It helps users find the best possible train travel options between stations by a
 
 ## 🖼️ Project Preview
 ![App Screenshot](project-preview.png)
+![App Screenshot](project-preview2.png)
 
 ---
 
