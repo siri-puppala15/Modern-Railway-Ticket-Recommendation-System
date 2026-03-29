@@ -1,0 +1,2 @@
+# Modern Railway Ticket Recommendation System
+A railway ticket availability and recommendation system built using Python and Flask. The project solves the problem of unavailable direct train tickets by analyzing station-wise availability and suggesting optimal travel options, including split-route alternatives. It also provides train details, seat availability, and fare information for efficient journey planning.
